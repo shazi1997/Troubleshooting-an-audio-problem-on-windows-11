@@ -16,7 +16,3 @@ When connecting your Sony Inzone H7 headset to your laptop, you notice that the 
 2. When opening device manager, the flickering persists on there as well with the drop down boxes expanding and collapsing. The same behaviour is observed in playback devices (control panel - hardware and sound -  sound). This indicates that the issues may be with the drivers.
 
 3. Next boot your computer into safe mode, this only loads the essential drivers and services. This will most likely cause the constant flickering to stop. Then unistall everything under sound, video and game controllers especially your headsets driver. Do not worry when restarting the computer, windows will load fresh new drivers, replacing the faulty old ones. This should help fix the problem when you restart your computer again.
-    
-<p align="center">
-Launch the utility: <br/>
-
